@@ -1,1 +1,2 @@
 -Membuat File Baru
+-Menambah isi file second
