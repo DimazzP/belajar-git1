@@ -1,6 +1,4 @@
 -Saya sedang belajar github
 <<<<<<< Updated upstream
 -Saya menambahkan lagi
-=======
 -Menambah isi file beginning
->>>>>>> Stashed changes
